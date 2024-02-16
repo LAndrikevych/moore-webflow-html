@@ -1,0 +1,18 @@
+.clients {
+  color: var(--light-text);
+}
+
+.clients__container {
+  background-color: var(--brand-color);
+  padding: 80px 0 160px;
+}
+
+.clients__logo-container {
+  width: 300px;
+  grid-template-columns: 1fr 1fr;
+  margin: 0 auto;
+}
+
+.clients__logo {
+  width: 100%;
+}

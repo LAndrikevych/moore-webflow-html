@@ -1,0 +1,5 @@
+.reach-out__container {
+  background-color: var(--brand-color);
+  color: var(--light-text);
+  padding: 80px 0 160px;
+}

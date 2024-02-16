@@ -1,0 +1,12 @@
+.team__images-container {
+  width: 100vw;
+}
+
+.team__image {
+  width: 50%;
+}
+
+.team__image-container a {
+  display: block;
+  color: var(--brand-color);
+}

@@ -1,0 +1,15 @@
+@import url('https://fonts.googleapis.com/css2?family=Inter:wght@100..900&display=swap');
+
+@import url(./global.css);
+@import url(./header.css);
+@import url(./about.css);
+@import url(./clients.css);
+@import url(./approach.css);
+@import url(./inside.css);
+@import url(./services.css);
+@import url(./in-numbers.css);
+@import url(./faq.css);
+@import url(./testimonials.css);
+@import url(./team.css);
+@import url(./reach-out.css);
+@import url(./footer.css);

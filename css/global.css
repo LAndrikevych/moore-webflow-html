@@ -1,0 +1,47 @@
+:root {
+  --brand-color: #1B2D73;
+  --light-text: #FAF8F2;
+  --description-text: #646670;
+  --huge-text: #ECEAE5;
+  --numbers-color: #9DC4FF;
+  --section-bgc: #DFE4E7;
+  --testimonial-bgc: #E8EAED;
+  font-family: "Inter", sans-serif;
+  color: var(--brand-color);
+}
+
+* {
+  margin: 0;
+  padding: 0;
+  box-sizing: border-box;
+}
+
+a {
+  text-decoration: none;
+  color: var(--light-text);
+}
+a:hover {
+  opacity: 0.7;
+}
+
+ul {
+  list-style: none;
+}
+
+.container {
+  width: 100vw;
+  border-radius: 5px;
+}
+
+.grid-container {
+  display: grid;
+  grid-template-columns: repeat(12, 1fr);
+  grid-template-rows: 1fr 1fr;
+}
+
+.block-title {
+  font-size: 18vw;
+  text-align: center;
+  line-height: 80%;
+  margin: 5rem 0;
+}
